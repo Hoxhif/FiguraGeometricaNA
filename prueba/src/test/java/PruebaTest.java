@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class PruebaTest {
     int a=2;
     int b=2;
+    // comentario
 
 
 @Test
